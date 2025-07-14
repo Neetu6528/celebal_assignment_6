@@ -1,6 +1,5 @@
 #  NYC Taxi Data Analysis with PySpark on Databricks
 
-[![Demo Video](https://img.shields.io/badge/Watch-Demo-blue)](https://drive.google.com/file/d/1GKOc7kJo2pMNWRfuUgui7hAbNMXxrL9h/view?usp=sharing)
 
 ##  Project Description
 
