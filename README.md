@@ -44,11 +44,7 @@ Simulated a streaming query to identify top pickup locations using a 10-second w
 -  **Data Source:** NYC TLC Public Dataset (Parquet)
 -  **Libraries:** PySpark SQL, Window Functions, Pandas (for optional visualizations)
 
----
 
-##  Demo Video
-
-▶ [Click here to watch the demo](https://drive.google.com/file/d/1GKOc7kJo2pMNWRfuUgui7hAbNMXxrL9h/view?usp=sharing)
 
 ---
 
